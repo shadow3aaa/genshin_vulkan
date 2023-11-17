@@ -1,0 +1,6 @@
+id=genshin_vulkan
+name=原神开启Vulkan
+version=final
+versionCode=1
+author=shadow3
+description=在原神开启vulkan渲染(实验性)，可能造成一些渲染问题
